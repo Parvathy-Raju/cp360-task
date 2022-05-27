@@ -5,7 +5,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-            <button class="fa fa-plus"></i><a href="peoples"> Click here to view the persons details</button>
+            <button class="fa fa-plus"></i><a href="forms"> Click here to view the persons details</button>
             <br/>
             <br/>
             <br/>
